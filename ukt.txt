@@ -1,0 +1,5 @@
+Tutorial membayar UKT:
+- Pergi ke bank BNI
+- Mengambil nomor antrian
+- Pergi ke teller untuk membayar UKT
+- Menerima slip pembayaran
