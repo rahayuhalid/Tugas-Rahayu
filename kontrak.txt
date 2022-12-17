@@ -1,0 +1,5 @@
+Tutorial menkontrak KRS:
+- Membuka SIAT dan login.
+- Pergi ke halaman tambah/edit KRS
+- Pilih semester kuliah kita sekarang.
+- Lalu ceklis mata kuliah yang akan kita kontrak.
